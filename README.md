@@ -104,8 +104,6 @@ Anna University
 
 
 
-![Mathusri's GitHub stats](https://github-readme-stats.vercel.app/api?username=aimadhu04-gif&theme=dark&show_icons=true&&hide=issues,contribs)
-
 
 
 [
