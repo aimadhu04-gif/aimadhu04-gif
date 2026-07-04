@@ -1,0 +1,243 @@
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=MADHU%20SRI&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Artificial%20Intelligence%20Engineer&descAlignY=55"/>
+
+
+<h1 align="center">Hi 👋 I'm Madhu Sri A</h1>
+
+<h3 align="center">Artificial Intelligence Engineer</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+Engineer;Machine+Learning+Enthusiast;Python+%7C+AI+%7C+Data+Science;Deep+Learning+Explorer;Future+AI+Professional" alt="Typing SVG" />
+</p>
+
+<p align="center">
+Aspiring AI Engineer passionate about Machine Learning, Data Science, Deep Learning, and Generative AI.
+</p>
+
+---
+
+## 🚀 About Me
+
+<img align="right" alt="AI Engineer" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+## Hi there 👋 It's me Mathusri
+
+AI Engineer | Student @ Varuvan Vadivelan Institute of Technology,
+Anna University
+
+- 🤖 Building and integrating AI into real-world products and workflows
+- 🎓 Studying at Varuvan Vadivelan Institute of Technology, Anna University, CGPA: 8.1 / 10
+- 🌱 Currently learning & teaching DSA, and exploring LLMs, RAG pipelines, and agentic AI systems
+- ⚡ Fun fact: I know English
+
+### Connect with me
+[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://x.com/MathusriHd)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/madhu026)
+[<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/shadow_azee_04)
+[<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/aimadhu04-gif)
+
+---
+
+### 🧠 AI / ML Stack
+
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow" width="50" height="50"/>
+  <img src="https://img.icons8.com/fluency/48/pytorch.png" alt="PyTorch" width="50" height="50"/>
+  <img src="https://img.icons8.com/fluency/48/openai.png" alt="OpenAI" width="50" height="50"/>
+  <img src="https://avatars.githubusercontent.com/u/126733545?s=48&v=4" alt="LangChain" width="50" height="50"/>
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="50" height="50"/>
+  <img src="https://img.icons8.com/fluency/48/database.png" alt="Vector Databases" width="50" height="50"/>
+</p>
+
+### 💻 Languages & Web
+
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Boot" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/null/graphql.png" alt="GraphQL" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/google-firebase-console.png" alt="Firebase" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="50" height="50"/>
+  <img src="https://img.icons8.com/fluent/48/000000/arduino.png" alt="Arduino" width="50" height="50"/>
+</p>
+
+### 🧰 IDE & Tools
+
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/pycharm.png" alt="PyCharm" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/50/000000/git.png" alt="Git" width="50" height="50"/>
+  <img src="https://img.icons8.com/dusk/64/000000/anaconda.png" alt="Anaconda" width="50" height="50"/>
+  <img src="https://img.icons8.com/officel/480/null/java-eclipse.png" alt="Eclipse IDE" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/480/null/notion--v1.png" alt="Notion" width="50" height="50"/>
+  <img src="https://img.icons8.com/doodle/48/000000/adobe-photoshop.png" alt="Adobe Photoshop" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/figma--v1.png" alt="Figma" width="50" height="50"/>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>
+  <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white" alt="Adobe XD"/>
+</p>
+
+### 💻 Workspace Spec
+<img height="30" src="https://img.shields.io/badge/Macbook-Pro_M1-ED1C24?style=for-the-badge&logo=apple&logoColor=white"/>
+<img height="30" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+<img height="30" src="https://img.shields.io/badge/AMD-Ryzen_5_4600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=twinkling" />
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=aimadhu04-gif&theme=tokyonight&hide_border=true"/>
+</p>
+
+
+
+![Mathusri's GitHub stats](https://github-readme-stats.vercel.app/api?username=aimadhu04-gif&theme=dark&show_icons=true&&hide=issues,contribs)
+
+
+
+[
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/mathu-sri?ext=contest&theme=dark)
+
+](https://leetcode.com/u/mathu-sri/)
+
+[
+
+![Mathusri's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aimadhu04-gif&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)
+
+](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+## 🏆 GitHub Trophy Wall
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=aimadhu04-gif&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</p>
+
+---
+
+## 💼 Internship Experience
+
+### ☁️ Cloud Computing Intern
+
+📅 **January 2025 – April 2025**
+
+#### Key Responsibilities
+
+* ☁️ Learned cloud computing concepts and services
+* 🚀 Worked on cloud-based applications
+* 🔧 Gained basic deployment experience
+* 🧠 Improved technical problem-solving abilities
+* 🤝 Enhanced collaboration and technical communication skills
+
+---
+
+## 🚀 Featured Projects
+
+| Project                        | Technologies                 | Description                                                                                                   |
+| ------------------------------ | ---------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| 🤖 AI Chatbot Using Python     | Python, Tkinter              | Developed an AI chatbot implementing NLP concepts to improve user interaction and conversational experiences. |
+| 🎬 Movie Recommendation System | Python, Pandas, Scikit-Learn | Built a recommendation engine that suggests movies based on user interests using machine learning techniques. |
+
+---
+
+## 📜 Certifications
+
+| Certification                              | Platform       |
+| ------------------------------------------ | -------------- |
+| 🐍 Python for Data Science                 | Coursera       |
+| 🤖 Introduction to Artificial Intelligence | Great Learning |
+| 📊 Machine Learning Basics                 | Simplilearn    |
+| 🧠 Deep Learning Specialization            | Coursera       |
+| ✨ Generative AI Fundamentals               | Google Cloud   |
+
+---
+
+## 🎓 Education
+
+| Degree                        | Institution                               | University      | Duration    | CGPA     |
+| ----------------------------- | ----------------------------------------- | --------------- | ----------- | -------- |
+| B.Tech Information Technology | Varuvan Vadivelan Institute of Technology | Anna University | 2023 – 2027 | 8.1 / 10 |
+
+---
+
+## 🌱 Currently Learning
+
+* 🤖 Machine Learning
+* 🧠 Deep Learning
+* ✨ Generative AI
+* ☁️ Cloud Computing
+* 🐍 Advanced Python
+
+---
+
+## 🌟 Core Strengths
+
+* Artificial Intelligence
+* Machine Learning
+* Problem Solving
+* Communication
+* Team Collaboration
+* Quick Learner
+
+---
+
+## 🎯 Extra-Curricular Activities
+
+* ♟️ Chess
+* 🏸 Badminton
+* 🎤 Singing
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+
+<a href="mailto:divyamadhu2642006@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/madhu026">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/aimadhu04-gif">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 👀 Profile Visitors
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=aimadhu04-gif&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+</p>
+
+---
+
+## 💡 AI Thought
+
+> "Artificial Intelligence is most powerful when it amplifies human creativity, accelerates learning, and helps solve meaningful real-world challenges."
+
+---
+
+<p align="center">
+⭐ Turning ideas into intelligent solutions through AI, Machine Learning, and Data Science.
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=twinkling"/>
