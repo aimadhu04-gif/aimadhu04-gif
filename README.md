@@ -1,4 +1,3 @@
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=MADHU%20SRI&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Artificial%20Intelligence%20Engineer&descAlignY=55"/>
 
 
@@ -103,6 +102,8 @@ Anna University
 </p>
 
 
+
+![Mathusri's GitHub stats](https://github-readme-stats.vercel.app/api?username=aimadhu04-gif&theme=dark&show_icons=true&&hide=issues,contribs)
 
 
 
